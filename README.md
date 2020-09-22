@@ -12,5 +12,5 @@
 
 ***Customising your models with TensorFlow 2***  
 
-1. [Week 1]()
+1. [Week 1](Customising%20your%20models%20with%20TensorFlow%202/utf-8''Week%201%20Programming%20Assignment.ipynb)
 
