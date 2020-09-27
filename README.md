@@ -15,3 +15,4 @@
 1. [Week 1](Customising%20your%20models%20with%20TensorFlow%202/utf-8''Week%201%20Programming%20Assignment.ipynb)
 2. [Week 2](Customising%20your%20models%20with%20TensorFlow%202/utf-8''Week%202%20Programming%20Assignment.ipynb)
 3. [Week 3](Customising%20your%20models%20with%20TensorFlow%202/utf-8''Week%203%20Programming%20Assignment.ipynb)
+4. [Week 4](Customising%20your%20models%20with%20TensorFlow%202/utf-8''Week%204%20Programming%20Assignment.ipynb)
