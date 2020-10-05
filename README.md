@@ -1,4 +1,4 @@
-# TensorFlow-2-for-Deep-Learning-Specialization
+# TensorFlow 2 for Deep Learning Specialization - IMPERIAL COLLEGE LONDON
 
 ## __Getting started with Tensorflow 2__  
 
