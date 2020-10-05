@@ -21,5 +21,5 @@
 
 ***Probabilistic Deep Learning with TensorFlow 2***  
 
-
+1. [Week 1](Probabilistic%20Deep%20Learning%20with%20TensorFlow%202/utf-8''Week%201%20Programming%20Assignment.ipynb)
 
